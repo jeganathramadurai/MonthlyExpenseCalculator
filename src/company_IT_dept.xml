@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee_Info>
+  <Employee  Employee_ID="100"  name= "Willam" isManager = 'Y'  role = "Manager" manager_ID = "-1"></Employee>  
+  <Employee  Employee_ID="200"  name= "Jainag" isManager = 'Y'  role = "Manager" manager_ID = "100"></Employee>  
+  <Employee  Employee_ID="300"  name="Dinesh"  role = "Developer" isManager = 'N'  manager_ID = "200"></Employee>  
+  <Employee  Employee_ID="400" name = "AnushPogosova"  isManager = 'N'  role = "QATester" manager_ID = "200"></Employee> 
+   <Employee  Employee_ID="500"  name="Ondrej" isManager = 'N'  role = "Developer"  manager_ID = "100"></Employee>  
+  <Employee  Employee_ID="600"  name="Emil" isManager = 'N'  role = "QATester" manager_ID = "100"></Employee> 
+  <Employee  Employee_ID="700" name="Kay"  isManager = 'N' role = "QATester"  manager_ID = "100"></Employee> 
+   <Employee  Employee_ID="800"  name= "Subhash" isManager = 'Y'  role = "Manager" manager_ID = "-1"></Employee>
+   <Employee  Employee_ID="900"  name= "Selva" isManager = 'Y'  role = "Manager" manager_ID = "200"></Employee>
+</Employee_Info>
